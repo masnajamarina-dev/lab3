@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">omgtulab3</string>
+    <string name="main_image">Main image</string>
+    <string name="change_image">Change image</string>
+</resources>
